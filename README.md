@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML5 and CSS3" />
+</p>
+
 # HTML & CSS — First Project
 
 A responsive one-page website template built with **pure HTML5 and CSS3** — no frameworks, no JavaScript. First practice project in a series of three.
 
-## Sections
+## 🧩 Sections
 
 - Header with navigation
 - Landing / hero
@@ -11,7 +15,7 @@ A responsive one-page website template built with **pure HTML5 and CSS3** — no
 - About
 - Contact
 
-## Tech Stack
+## 🧰 Tech Stack
 
 - HTML5 (semantic markup)
 - CSS3 (Flexbox / Grid, media queries)
@@ -19,7 +23,7 @@ A responsive one-page website template built with **pure HTML5 and CSS3** — no
 - Font Awesome icons
 - Google Fonts (Work Sans, Lateef)
 
-## Run it
+## 🚀 Run it
 
 No build step needed:
 
